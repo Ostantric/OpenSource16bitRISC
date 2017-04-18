@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/User/Desktop/MURAT/Top_LEVEL/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/User/Desktop/MURAT/Top_LEVEL/xst"
+elaborate
+-ifn DELAYING_JUMP_ADDR_FOR_RB_MUX_BRANCH.prj
+-ifmt mixed

@@ -1,0 +1,50 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/User/Desktop/MURAT/Top_LEVEL/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.06 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/User/Desktop/MURAT/Top_LEVEL/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.06 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/User/Desktop/MURAT/DesignProjectALU/ArithmeticOperations_Unit.vhd" in Library work.
+Architecture mix of Entity arithmeticoperations_unit is up to date.
+Compiling vhdl file "C:/Users/User/Desktop/MURAT/DesignProjectALU/Control_Unit.vhd" in Library work.
+Architecture combinational of Entity control_unit is up to date.
+Compiling vhdl file "C:/Users/User/Desktop/MURAT/DesignProjectALU/Logic_Unit.vhd" in Library work.
+Architecture behavioral of Entity logic_unit is up to date.
+Compiling vhdl file "C:/Users/User/Desktop/MURAT/DesignProjectALU/Shift_Unit.vhd" in Library work.
+Architecture behavioral of Entity shift_unit is up to date.
+Compiling vhdl file "C:/Users/User/Desktop/MURAT/DesignProjectALU/LoadandStore_Unit.vhd" in Library work.
+Architecture behavioral of Entity loadandstore_unit is up to date.
+Compiling vhdl file "C:/Users/User/Desktop/MURAT/Top_LEVEL/VECTOR_UNIT.vhd" in Library work.
+Architecture behavioral of Entity vector_unit is up to date.
+Compiling vhdl file "C:/Users/User/Desktop/MURAT/Top_LEVEL/ALU_MUX_UNIT.vhd" in Library work.
+Architecture combinational of Entity alu_mux_unit is up to date.
+Compiling vhdl file "C:/Users/User/Desktop/MURAT/Top_LEVEL/Branch_Unit.vhd" in Library work.
+Architecture behavioral of Entity branch_unit is up to date.
+Compiling vhdl file "C:/Users/User/Desktop/MURAT/DesignProjectALU/ALU.vhd" in Library work.
+Architecture structural of Entity alu is up to date.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.18 secs
+ 
+--> 
+
+Total memory usage is 214792 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

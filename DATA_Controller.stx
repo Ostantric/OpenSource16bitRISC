@@ -1,0 +1,36 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/User/Desktop/MURAT/Top_LEVEL/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.06 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/User/Desktop/MURAT/Top_LEVEL/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.06 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/User/Desktop/MURAT/Top_LEVEL/DATA_Controller.vhd" in Library work.
+Entity <data_controller> compiled.
+ERROR:HDLParsers:3312 - "C:/Users/User/Desktop/MURAT/Top_LEVEL/DATA_Controller.vhd" Line 86. Undefined symbol 'READ_SIGNAL_FOR_SHADOW_REGISTER'.
+ERROR:HDLParsers:1209 - "C:/Users/User/Desktop/MURAT/Top_LEVEL/DATA_Controller.vhd" Line 109. READ_SIGNAL_FOR_SHADOW_REGISTER: Undefined symbol (last report in this block)
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> 
+
+Total memory usage is 213384 kilobytes
+
+Number of errors   :    2 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

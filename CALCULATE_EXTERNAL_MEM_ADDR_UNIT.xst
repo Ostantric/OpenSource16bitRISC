@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/User/Desktop/MURAT/Top_LEVEL/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/User/Desktop/MURAT/Top_LEVEL/xst"
+elaborate
+-ifn CALCULATE_EXTERNAL_MEM_ADDR_UNIT.prj
+-ifmt mixed

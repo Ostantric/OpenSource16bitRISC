@@ -1,0 +1,1 @@
+vhdtdtfi -prj Top_LEVEL -o C:/Users/MuTe-Desktop/Desktop/ECE368/MURAT/Top_LEVEL/DEC_REGISTER.vhi -module DEC_REGISTER -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work DEC_REGISTER.vhd 

@@ -1,0 +1,2 @@
+vhdl work "Clock_Controller.vhd"
+vhdl work "CLOCK_CONTROLLER_TEST.vhd"
